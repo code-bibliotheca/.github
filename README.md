@@ -1,6 +1,6 @@
 # Code Bibliotheca
 
-책을 읽으며 각자 공부한 내용을 종합해 정리하는 repository입니다.
+책을 읽으며 각자 공부한 내용을 종합해 정리하는 공간입니다.
 
 ## 📌 Rules
 
